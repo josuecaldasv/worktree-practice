@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+*.log
+
+# Keep worktree folders out of git — they are separate checkouts, never commit them.
+.worktrees/
